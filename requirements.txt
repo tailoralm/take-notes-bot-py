@@ -1,0 +1,5 @@
+torch  # Required for Whisper, automatically installs the appropriate version for your environment
+git+https://github.com/openai/whisper.git  # Install Whisper directly from its GitHub repository
+numpy  # Whisper uses NumPy internally for operations
+
+requests~=2.32.3
