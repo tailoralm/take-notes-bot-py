@@ -1,6 +1,7 @@
 import datetime
 import general as GeneralUtils
 
+
 class LoggerUtils:
     def __init__(self, tag: str):
         self.tag = tag

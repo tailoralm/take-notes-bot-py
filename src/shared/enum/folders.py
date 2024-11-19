@@ -10,7 +10,7 @@ class Folders(Enum):
     photos = os.path.join(DEFAULT_PATH, 'album')
     videos = os.path.join(DEFAULT_PATH, 'album')
     random = os.path.join(DEFAULT_PATH, 'random')
-    notes = os.path.join(DEFAULT_PATH, 'notes')
-    voices = os.path.join(DEFAULT_PATH, 'notes', 'voices')
-    processedVoices = os.path.join(DEFAULT_PATH, 'notes', 'voices', 'processed')
+    notes = DEFAULT_PATH
+    voices = os.path.join(DEFAULT_PATH, 'voices')
+    processedVoices = os.path.join(DEFAULT_PATH, 'voices', 'processed')
     general = os.path.join(DEFAULT_PATH, 'files')
