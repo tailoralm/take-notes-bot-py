@@ -4,7 +4,7 @@ This project focuses on developing a Telegram bot designed to assist users in sa
 
 ## Recommendations
 
-I strongly recommend using this project on a [private server](https://medium.com/@guido567/a-comprehensive-guide-to-self-hosting-hardware-software-and-connectivity-solutions-b63182d02552) with [FileBrowser](https://github.com/filebrowser/filebrowser), so you can send your stuffs via Telegram and access them on your computer using the browser.
+I use this project on a [private server](https://medium.com/@guido567/a-comprehensive-guide-to-self-hosting-hardware-software-and-connectivity-solutions-b63182d02552) with [FileBrowser](https://github.com/filebrowser/filebrowser), so i can send my stuffs via Telegram anytime and access them in the computer using the browser.
 
 ## Features
 
