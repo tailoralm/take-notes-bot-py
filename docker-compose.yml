@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: take_notes_bot
+    volumes:
+      - .:/app
+    command: python main.py
